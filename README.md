@@ -6,8 +6,7 @@ A Bash script repository for generating code templates and handling command-line
 
 ### Generate Code Template
 ```bash
-./generateCodeTemplate.sh <-c|-cpp> <name> <description> -o <output file>
-```bash
+``` ./generateCodeTemplate.sh <-c|-cpp> <name> <description> -o <output file> ```
 - Specify either '-c' for C or -cpp for C++.
 - Provide the name and description of the author.
 - Optionally, use -o to specify an output file.
